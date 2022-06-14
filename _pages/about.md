@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+# About
+
 [Phil Legg](https://people.uwe.ac.uk/Person/PhilLegg) is a Full Professor in Cyber Security at the [University of the West of England (UWE Bristol), UK](https://www.uwe.ac.uk/). He is Co-Director of the [UWEcyber](http://www.cems.uwe.ac.uk/~pa-legg/uwecyber/) Academic Centre of Excellence in Cyber Security Education (ACE-CSE), as recognised by the National Cyber Security Centre (NCSC). He is also Programme Leader for the NCSC-certified [MSc Cyber Security](https://courses.uwe.ac.uk/I9001/cyber-security).
 
 His research intersects across Cyber Security, looking at how machine learning, visual analytics, and human-computer interaction are adopted within cyber security, to improve interpretability and understanding of risk, and to improve robustness and trust of modern security technologies. His early research addresses the robustness of machine learning and computer vision systems, as well as how such models can be utilised for insider threat detection and cyber situational awareness. More recently, he is interested in how human-machine teaming can help to establish confidence and trust in human-machine agents, and how active learning techniques can be used to interrogate model robustness and identify security vulnerabilities such as adversarial learning cases. At UWE Bristol, he is an active researcher within the Computer Science Research Centre in the [Department of Computer Science and Creative Technologies](https://www1.uwe.ac.uk/et/csct.aspx).
