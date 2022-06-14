@@ -1,13 +1,12 @@
 ---
 permalink: /
-excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About
+# About
 
 [Phil Legg](https://people.uwe.ac.uk/Person/PhilLegg) is a Full Professor in Cyber Security at the [University of the West of England (UWE Bristol), UK](https://www.uwe.ac.uk/). He is Co-Director of the [UWEcyber](http://www.cems.uwe.ac.uk/~pa-legg/uwecyber/) Academic Centre of Excellence in Cyber Security Education (ACE-CSE), as recognised by the National Cyber Security Centre (NCSC). He is also Programme Leader for the NCSC-certified [MSc Cyber Security](https://courses.uwe.ac.uk/I9001/cyber-security).
 
