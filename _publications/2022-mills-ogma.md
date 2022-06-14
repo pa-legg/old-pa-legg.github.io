@@ -1,7 +1,7 @@
 ---
 title: "OGMA: Visualisation for Software Container Security Analysis and Automated Remediation"
 collection: publications
-permalink: /publication/2022-mills-ogma
+permalink: /publications/2022-mills-ogma
 date: 2022-06-01
 venue: 'IEEE Conference on Cyber Security and Resilience'
 author: 'Alan Mills, Jon White, Phil Legg'
