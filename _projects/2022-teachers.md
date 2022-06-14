@@ -1,6 +1,6 @@
 ---
 title: "Cyber Security Education Workshops for Teachers"
-excerpt: "A hands-on cyber security workshop for upskilling school teachers<br/><img src='/images/500x300.png'>"
+excerpt: "A hands-on cyber security workshop for upskilling school teachers"
 collection: projects
 date: 2022-01-01
 ---

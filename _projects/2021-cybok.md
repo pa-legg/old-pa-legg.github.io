@@ -1,6 +1,6 @@
 ---
 title: "Teaching Cyber Physical Systems Security using Interactive Simulation"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: ""
 collection: projects
 date: 2021-01-01
 ---
