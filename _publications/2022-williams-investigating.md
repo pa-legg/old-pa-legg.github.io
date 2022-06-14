@@ -1,7 +1,7 @@
 ---
 title: "Investigating Malware Propagation and Behaviour Using System and Network Pixel-Based Visualisation"
 collection: publications
-permalink: /publication/2022-williams-investigating
+permalink: /publications/2022-williams-investigating
 date: 2022-01-01
 venue: 'SN Computer Science'
 author: 'Jacob Williams, Phil Legg'
