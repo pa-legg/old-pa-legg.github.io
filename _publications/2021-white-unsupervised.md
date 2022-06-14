@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised One-Class Learning for Anomaly Detection on Home IoT Network Devices"
 collection: publications
-permalink: /publication/2021-white-unsupervised
+permalink: /publications/2021-white-unsupervised
 date: 2021-07-01
 venue: '2021 International Conference on Cyber Situational Awareness, Data Analytics and Assessment (CyberSA)'
 author: 'Jon White, Phil Legg'
