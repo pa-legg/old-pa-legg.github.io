@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Security Data Analytics and Visualisation"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2022-sdav
+venue: "University of the West of England"
+date: 2022-01-01
+location: "Bristol, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Security Data Analytics and Visualisation introduces students to machine learning and data visualisation techniques for the purpose of better understanding security challenges, and how we can utilise data science techniques to investigate and act.
