@@ -1,7 +1,7 @@
 ---
 title: "Functionality-Preserving Adversarial Machine Learning for Robust Classification in Cybersecurity and Intrusion Detection Domains: A Survey"
 collection: publications
-permalink: /publication/2022-mccarthy-functionality
+permalink: /publications/2022-mccarthy-functionality
 date: 2022-03-01
 venue: 'Journal of Cybersecurity and Privacy'
 paperurl: 'https://www.mdpi.com/2624-800X/2/1/10'
