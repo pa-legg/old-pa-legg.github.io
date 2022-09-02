@@ -1,0 +1,12 @@
+---
+title: "James Barrett (PhD candidate) - Cyber Security Analytics in Telecommunications systems: Managing security and service in complex real-time 5G networks"
+collection: research
+permalink: /research/2022-phd_james
+date: 2022-01-01
+---
+
+Our digital society is dependent on complex dynamic telecommunications systems that support our activities and interactions, with increasingly more devices being connected and communicating each day. Managing these systems is a challenging task with time critical needs to provide real-time functionality to services – including healthcare, transport, finance, socialising, and other forms of interaction. Analysts need to ensure that networks are functional, from physical layers through to networking and application layers. At the same time, analysts need to identify and mitigate against threats which can materialise as denial-of-service attacks, targeted sabotage of users, or leaks of confidentiality. In recent years, machine learning techniques have been applied to manage service level provisions, and yet security threats continue to challenge this domain. A major challenge in this domain is to establish cyber situational awareness, in terms of the current landscape and the anticipated future events, and how to effectively integrate human-machine collaboration to best utilise machine learning approaches whilst enabling analysts to best home in on contextual aspects of security threats, all the while doing so in a real-time manner that causes little or no disruption to the end-user service.
+
+This research will explore the current trends of machine learning and communication networks, recognising the role of ML as an enabler of cyber security but also as introducing another potential attack vector. In this manner, analysts need to determine how best to collaborate with the system, to identify what should be automated, what should be human-assisted, and what should be human-led investigation. Fundamentally, the challenge is to inform real-time decision making and actions of how the underlying network configuration performs ensuring both service and security, and the implications of this on the end users.
+
+Funding provided by [Ribbon Communications](https://ribboncommunications.com/) and [UWE Partnership PhD scheme](https://www.uwe.ac.uk/business/business-services/innovation-and-funding/partnership-phds).
