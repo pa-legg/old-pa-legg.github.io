@@ -189,7 +189,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  partners:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -215,6 +217,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+  # _partners
+  - scope:
+      path: ""
+      type: partners
     values:
       layout: single
       author_profile: true
