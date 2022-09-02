@@ -14,9 +14,14 @@ main:
     
   - title: "Projects"
     url: /projects/
+
+  - title: "Partners"
+    url: /partners/
         
-  - title: "Blog"
+  - title: "News"
     url: /year-archive/
+
+
     
 #  - title: "CV"
 #    url: /cv/
